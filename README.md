@@ -22,3 +22,5 @@ npm install
 ```
 npm run serve
 ```
+
+Para ver el proyecto funcionando: [https://joaquinserrano.github.io/vue-shopping-cart/](https://joaquinserrano.github.io/vue-shopping-cart)
