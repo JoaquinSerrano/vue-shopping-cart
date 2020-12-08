@@ -1,19 +1,24 @@
-# vue_shop
+# Vue Shopping Cart
 
-## Project setup
+Proyecto básico de un carrito de la compra. He tratado los siguientes conceptos:
+
+- Componentes independientes usando bootstrap-vue.
+- Paginador usando vue-paginate.
+- Llamada a API externa para gestionar productos.
+- Gestor de estado con Vuex.
+- Busqueda de producto por su nombre.
+- Carrito de compra que suma unidades y precios.
+
+Este proyecto está enfocado a su funcionamiento, quedando la parte estática (diseño y css) fuera de los objetivos del mismo
+
+## Instalar dependencias
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Correr el servidor
+
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
